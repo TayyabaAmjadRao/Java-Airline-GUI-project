@@ -1,0 +1,11 @@
+__________SHAHEEN AIRWAYS__________
+__________Ticket__________
+____________________________
+Customer ID: 0
+Customer Name: null
+Customer Gender: null
+
+Description
+
+Destination		DUBAI
+Flight cost:		PKR 0.0
